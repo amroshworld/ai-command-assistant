@@ -16,6 +16,8 @@ import (
 
 const apiKeyFile = "apiKey.txt"
 
+var buildID string
+
 // get api key from usr
 func getAPIKey() string {
 	// Check if API key  exists

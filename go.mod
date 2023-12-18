@@ -1,4 +1,4 @@
-module ai-command
+module frgt
 
 go 1.21.0
 
